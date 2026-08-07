@@ -1,2 +1,58 @@
 # week4--full-stack-Mini-Project
 Week 4 Full Stack Development Internship Project - Student Management System with Frontend and Backend Integration.
+# Week 4 - Full Stack Mini Project
+
+## Project Title
+Task Manager
+
+## Objective
+Develop a simple Full Stack Task Manager by integrating frontend with backend.
+
+## Description
+This project is developed using HTML, CSS, JavaScript and Python Flask. It allows users to add, view and delete tasks.
+
+## Features
+
+- Add Task
+- View Tasks
+- Delete Task
+- Frontend + Backend Integration
+- Simple Data Storage
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Flask
+- GitHub
+
+## Installation Guide
+
+1. Install Python.
+2. Install Flask.
+
+```
+pip install flask
+```
+
+3. Run
+
+```
+python app.py
+```
+
+4. Open browser.
+
+## Files
+
+- index.html
+- style.css
+- script.js
+- app.py
+- requirements.txt
+
+## Author
+
+Ishrat
